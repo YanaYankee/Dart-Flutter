@@ -1,6 +1,6 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/Users/yanina.kononenko/flutter"
+export "FLUTTER_ROOT=/Users/yanina.kononenko/SDKs/Flutter"
 export "FLUTTER_APPLICATION_PATH=/Users/yanina.kononenko/FLUTTER_TESTING/PLAYGROUND/flutter_complete_guide"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=/Users/yanina.kononenko/FLUTTER_TESTING/PLAYGROUND/flutter_complete_guide/lib/main.dart"
